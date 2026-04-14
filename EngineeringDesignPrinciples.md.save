@@ -1,5 +1,0 @@
-Use Img1.png as the fixed image and img2.png as the moving image
-
-Since we are working with circles so maybe I shouldn't be using rotation and translation
-
-Use gradient descent to optimize translation parameters
